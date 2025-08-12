@@ -8,7 +8,7 @@ function Time() {
       <div className="flex flex-col-reverse lg:flex-row items-center justify-between gap-7  ">
         {/* left side */}
         <div className="flex-1 items-start">
-          <img className="w-full h-auto max-w-lg" src="/public/Group17.png" />
+          <img className="w-full h-auto max-w-lg" src="Group17.png" />
         </div>
 
         {/* right side */}
@@ -76,7 +76,7 @@ function Time() {
 
         {/* right side */}
         <div className="flex-1 items-start">
-          <img className="w-full h-auto max-w-lg" src="/public/Group22.png" />
+          <img className="w-full h-auto max-w-lg" src="Group22.png" />
         </div>
       </div>
     </section>

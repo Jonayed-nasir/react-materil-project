@@ -5,31 +5,31 @@ import { Link } from '@mui/material';
 function Presentation() {
   const cardData = [
     {
-      source: 'public/Group67.png',
+      source: 'Group67.png',
       heading: 'Managment',
       text: 'Software platform for running your new internet business',
     },
     {
-      source: 'public/Group32.png',
+      source: 'Group32.png',
       heading: 'Entertainment',
       text: 'Software platform for running your new internet business',
     },
     {
-      source: 'public/Group4.png',
+      source: 'Group4.png',
       heading: 'Marketing',
       text: 'Software platform for running your new internet business',
     },
     {
-      source: 'public/Group41.png',
+      source: 'Group41.png',
       heading: 'References',
       text: 'Software platform for running your new internet business',
     },
   ];
 
   const socialLisns = [
-    { Link: 'public/facebook.png' },
-    { Link: 'public/vector.png' },
-    { Link: 'public/instagram1.png' },
+    { Link: 'facebook.png' },
+    { Link: 'vector.png' },
+    { Link: 'instagram1.png' },
   ];
 
   return (

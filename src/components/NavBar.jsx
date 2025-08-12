@@ -44,7 +44,7 @@ function NavBar() {
           ) : (
             <>
               <Typography sx={{ flexGrow: '1' }}>
-                <img className="navLogo" src="/public/Logo1.png" alt="logo" />
+                <img className="navLogo" src="Logo1.png" alt="logo" />
               </Typography>
 
               {menuItems.map((item) => (
@@ -89,7 +89,7 @@ function NavBar() {
 
           <ListItem>
             <ListItemText>
-              <img className="navLogoSm" src="/public/Logo1.png" alt="logo" />
+              <img className="navLogoSm" src="Logo1.png" alt="logo" />
             </ListItemText>
           </ListItem>
         </List>

@@ -11,7 +11,7 @@ import {
   Link,
   IconButton,
 } from '@mui/material';
-import { flex } from '@mui/system';
+
 
 function Footer() {
   const FooterData = [
@@ -63,7 +63,7 @@ function Footer() {
             sx={{ display: 'flex',  alignItems: 'center' }}
           >
             <img
-              src="/degic-1.png"
+              src="degic-1.png"
               alt="Logo"
               style={{ maxWidth: '80%', height: 'auto' }}
             />

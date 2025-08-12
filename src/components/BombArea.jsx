@@ -21,7 +21,7 @@ function BombArea() {
         <div className="flex-1 ">
           <img
             className="w-full h-auto max-w-lg "
-            src="/public/bomb1.png"
+            src="bomb1.png"
           />
         </div>
       </div>

@@ -8,19 +8,19 @@ function Slider() {
       id: 1,
       heading: 'Make more time for the work that matters most',
       description: 'Best software platform for running an internet business.',
-      image: 'public/Group35.png',
+      image: 'Group35.png',
     },
     {
       id: 2,
       heading: 'bild more time for the work that matters most',
       description: 'Best software platform for running an internet business.',
-      image: 'public/undraw_warnings_agxg.svg',
+      image: 'undraw_warnings_agxg.svg',
     },
     {
       id: 3,
       heading: 'Lorem ipsum dolor, sit amet consectetur ',
       description: 'Best software platform for running an internet business.',
-      image: 'public/undraw_to-do-list_o3jf.svg',
+      image: 'undraw_to-do-list_o3jf.svg',
     },
   ];
 
@@ -44,7 +44,7 @@ function Slider() {
       <div className="flex flex-col justify-between md:flex-row items-center gap-20">
         {/* left section */}
         <div className="flex flex-col w-full md:w-1/2 justify-between space-y-6">
-          <img className="w-16 md:w-24 mb-4" src="/public/Logo1.png" alt="" />
+          <img className="w-16 md:w-24 mb-4" src="Logo1.png" alt="" />
           <h1 className="text-2xl md:text-5xl text-black font-bold max-w-md">
             {heading}
           </h1>

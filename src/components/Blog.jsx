@@ -5,7 +5,7 @@ function Blog() {
   const CadData = [
     {
       id: 1,
-      imgSrc: 'public/Group-41.png',
+      imgSrc: 'Group-41.png',
       title: 'Make myspace your best designed space',
       description:
         'A lot of different components that will help you create the perfect look for your project',
@@ -13,7 +13,7 @@ function Blog() {
     },
     {
       id: 2,
-      imgSrc: 'public/Group-39.png',
+      imgSrc: 'Group-39.png',
       title: 'My company culture has changed today',
       description:
         'A lot of different components that will help you create the perfect look for your project',
@@ -21,7 +21,7 @@ function Blog() {
     },
     {
       id: 3,
-      imgSrc: 'public/Group-40.png',
+      imgSrc: 'Group-40.png',
       title: 'Professionals in craft! All products were super great',
       description:
         'A lot of different components that will help you create the perfect look for your project',

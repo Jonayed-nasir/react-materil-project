@@ -23,7 +23,7 @@ function Hero() {
         </div>
 
         <div className="flex-1">
-          <img className="w-full md:max-w-lg h-auto" src="/public/rocket.png" />
+          <img className="w-full md:max-w-lg h-auto" src="rocket.png" />
         </div>
       </section>
     </>
