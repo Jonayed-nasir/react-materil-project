@@ -1,0 +1,14 @@
+
+.Navbar{
+    height: 100px;
+    justify-content: center;
+}
+
+.navLogo{
+    margin-top: 40px;
+    max-width: 200px;
+}
+
+.navLogoSm{
+    width: 100px;
+}
